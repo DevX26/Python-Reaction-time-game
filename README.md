@@ -15,7 +15,9 @@ Color-coded feedback based on performance
 Setup instruction for Python version:
 Make sure Python 3 is installed on your system.
 Install required packages Open your terminal and run:
-pip install requests
+<pre>
+  pip install requests
+</pre>
 
 License
 This project is open-source and available under the MIT License.
